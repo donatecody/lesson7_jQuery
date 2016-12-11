@@ -1,0 +1,14 @@
+Project Name: Recipe Display Application
+      
+Author: Donate Cody
+      
+Date: Sun 11 Dec 2016
+
+Filename: ExtraCredit.txt
+
+
+DOM traversal - using .next() to traverse the DOM tree to the next element
+
+CSS change - changing the CSS background colors of the h3 headings
+
+Animation/event - animating the way the Ingredients and Instructions open
